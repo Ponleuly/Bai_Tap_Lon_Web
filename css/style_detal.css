@@ -1,0 +1,30 @@
+.warpper_deital{
+    
+    height: auto;
+    width: 90%;
+    margin: 0 auto;
+}
+.hinhanh_sanpham{
+    width: 30%;
+}
+.hinhanh_sanpham img{
+    width: 80%;
+    
+}
+.chitiet_sanpham{
+    width: 49%;
+    margin: 0 10px;
+   
+}
+.chitiet_sanpham h3,p{
+    float: left;
+}
+.input.themgiohang {
+    border: none;
+    background-color: #e74c3c;
+    color: white;
+    padding: 12px;
+    font-size: 15px;
+    cursor: pointer;
+
+}
